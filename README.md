@@ -1,9 +1,8 @@
-# COV19D
-The project includes working on a chest CT-scan series of images aiming to develop an automated classification algorithm for Covid-19/non-Covid-19 diagnosis. The project is towards the international COV19D cmmpetetion described in section B at https://mlearn.lincoln.ac.uk/mia-cov19d/.
-Images are all in JPG fomrat.
+# COV19D Conpetetion
+The project includes working on a chest CT-scan series of images aiming to develop an automated classification algorithm for Covid-19/non-Covid-19 diagnosis. https://mlearn.lincoln.ac.uk/mia-cov19d/ 
 
 ## The codes
-The codes develop deep learning classification models and Transfer Learning Based Classification Models:          
+The codes develop deep learning classification models and Transfer Learning Based Classification Models:  <br/>         
 1. Deep Learning CLassification Models: 
 <br /> A) The Code '3D_Image_Classification_binary_cross_loss.ipynb' introduces a CNN model solution for COVID-19 diagnosis from CT-Scan images.
 <br /> B) The code '3D_Image_Classification.ipynb' introduces a classification method based on a CNN model with Macro f1 as a loss function.
