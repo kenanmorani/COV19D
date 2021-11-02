@@ -4,11 +4,11 @@ Images are all in JPG fomrat.
 ## The codes
 The codes use CNN model and transfer learning methods:          
 1. CNN Model: 
-<br /> A) The code '3D_Image_Classification.ipynb' introduces a classification method based on a CNN model with Macro f1 as a loss function.
-<br /> B) The Code '3D_Image_Classification_binary_cross_loss.ipynb' introduces the same CNN model with binary crossentropy as a losss function. The results shows the improvment on the accuracy and loss of the CNN model over 20 epochs.
+<br /> A) The Code '3D_Image_Classification_binary_cross_loss.ipynb' introduces a CNN model solution for COVID-19 diagnosis from CT-Scan images.
+<br /> B) The code '3D_Image_Classification.ipynb' introduces a classification method based on a CNN model with Macro f1 as a loss function.
+<br /> C)The code '3D_Image_Classification_with_Modified_UNET_Architecture.ipynb' introduces a classification solution by a deep learning model, which is a modification of UNET model architecture.
 
 2. Transfer Learning and a classifier Model:
 <br /> The code 'Transfer_Learning_VGG16_RF.ipynb' introduces a transfer learning method using VGG16 model for feature exctraction followed by Random Forest  classifier to take the final classification dicision.
-3. CNN Model: 
-<br /> A) The code '3D_Image_Classification_with_Modified_UNET_Architecture.ipynb' introduces a classification solution by a deep learning model, which is a modification of UNET model architecture.
+
 
