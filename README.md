@@ -1,6 +1,8 @@
 # COV19D 
 The project includes working on a chest CT-scan series of images aiming to develop an automated classification algorithm for Covid-19/non-Covid-19 diagnosis. https://mlearn.lincoln.ac.uk/mia-cov19d/ 
 
+The full project can be found at the university lab resporatory at https://github.com/IDU-CVLab/COV19D.
+
 ## The codes
 The codes develop deep learning classification models and Transfer Learning Based Classification Models:   
 ### 1. Deep Learning Classification Models: 
